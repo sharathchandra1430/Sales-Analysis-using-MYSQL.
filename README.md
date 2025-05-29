@@ -1,6 +1,6 @@
 # Sales Analysis using MYSQL.
 
-# ${\color{blue} Sales \ analysis \ using\ Mysql}$
+# ${\color{blue} Sales \ Analysis \ using\ MYSQL}$
 
 # Objective
 To perform exploratory data analysis on a company's sales dataset using SQL to uncover trends, performance metrics, and customer behavior insights.
